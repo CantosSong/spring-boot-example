@@ -19,4 +19,5 @@
 *.st
 *.lock
 .idea/
+.idea/*
 application.pid
